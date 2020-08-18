@@ -1,4 +1,3 @@
-# 
 <h1 align="center">:moneybag: Api criptomoedas Javascript </h1>
 
 ## :computer: Projeto
@@ -21,6 +20,8 @@ Aplicação web para exibição de dados sobre criptomoedas usando a API do Coin
 
 <p align="center"> <img src="https://github.com/PauloAlves8039/api-criptomoedas-javascript/blob/master/assets/screenshot.png" alt="CoinMarketCap" /> </p>
 
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/api-criptomoedas-javascript/blob/master/LICENSE.md)
 
 ## Author
 
